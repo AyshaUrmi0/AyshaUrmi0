@@ -1,4 +1,4 @@
-![Banner](https://1.bp.blogspot.com/-7A4WynwLsM... ([direct image link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmi-xcZI6xWQN-biC5j-VgHtVYg4GS0sk3g&usqp=CAU)))
+![Banner](https://1.bp.blogspot.com/-7A4WynwLsM... (direct image link(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmi-xcZI6xWQN-biC5j-VgHtVYg4GS0sk3g&usqp=CAU)))
 
 <h1 align="center">Hi 👋, I'm Aysha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
