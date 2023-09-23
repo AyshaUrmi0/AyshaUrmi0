@@ -1,4 +1,4 @@
-![](https://github.com/AyshaUrmi0/AyshaUrmi0/blob/main/Hi%2C%20I%20AM%20AYSHA.mp4)
+
 <h1 align="center">Hi 👋, I'm Aysha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&usqp=CAU" alt="Description for image" width="250" height="250">
