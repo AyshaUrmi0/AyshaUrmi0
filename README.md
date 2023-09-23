@@ -1,4 +1,5 @@
-![Banner](https://1.bp.blogspot.com/-7A4WynwLsM... (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmi-xcZI6xWQN-biC5j-VgHtVYg4GS0sk3g&usqp=CAU))
+![Banner](https://1.bp.blogspot.com/-7A4WynwLsM... (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmi-xcZI6xW
+
 
 
 <h1 align="center">Hi 👋, I'm Aysha</h1>
