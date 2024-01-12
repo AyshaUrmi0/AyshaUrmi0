@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aysha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&usqp=CAU" alt="Description for image" width="250" height="250">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayshaurmi0&label=Profile%20views&color=0e75b6&style=flat" alt="ayshaurmi0" /> </p>
 
