@@ -1,15 +1,15 @@
 ![logo](https://github.com/AyshaUrmi0/AyshaUrmi0/blob/main/Screenshot_8.png)
 <h1 align="center">Hi 👋, I'm Aysha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayshaurmi0&label=Profile%20views&color=0e75b6&style=flat" alt="ayshaurmi0" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aysha_urmi" target="blank"><img src="https://img.shields.io/twitter/follow/aysha_urmi?logo=twitter&style=for-the-badge" alt="aysha_urmi" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js, Express, and MongoDB** after finishing **React**.
 
-- 💬 Ask me about **javascript,React**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **ayshaismail021@gmail.com**
 
@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayshaurmi0&show_icons=true&locale=en" alt="ayshaurmi0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayshaurmi0&" alt="ayshaurmi0" /></p>
