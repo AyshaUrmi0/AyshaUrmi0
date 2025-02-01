@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aysha_urmi" target="blank"><img src="https://img.shields.io/twitter/follow/aysha_urmi?logo=twitter&style=for-the-badge" alt="aysha_urmi" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, Express, and MongoDB** after finishing **React**.
+- 🌱 I’m currently learning **Node.js, Express, and MongoDB**.
 
 - 💬 Ask me about **JavaScript, React**
 
