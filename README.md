@@ -58,7 +58,7 @@
 ### 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AyshaUrmi0/AyshaUrmi0/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/AyshaUrmi0/AyshaUrmi0/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
 
