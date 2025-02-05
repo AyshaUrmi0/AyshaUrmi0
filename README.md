@@ -59,4 +59,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayshaurmi0&layout=compact" alt="Top Languages" />
 </p>
 
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AyshaUrmi0/output/github-snake.svg" alt="Snake animation" />
+</div>
+
+
 
