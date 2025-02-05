@@ -4,21 +4,31 @@
 
 
 <h1 align="center">Hi 👋, I'm Aysha</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayshaurmi0&label=Profile%20views&color=0e75b6&style=flat" alt="ayshaurmi0" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aysha_urmi" target="blank"><img src="https://img.shields.io/twitter/follow/aysha_urmi?logo=twitter&style=for-the-badge" alt="aysha_urmi" /></a> </p>
 
+
+###  Location  
+- **Current Location:**   Chittagong, Bangladesh  
+
+###  Contact Information  
+- **Email:** ayshaismail021@gmail.com  
+
+Feel free to reach out if you have any questions or want to collaborate!
+
+
+
 ### About Me  
-- 💡 Passionate about web development and crafting digital experiences.  
+I am a passionate web developer with a strong foundation in HTML, CSS, JavaScript, React, Node.js, and MongoDB. I enjoy creating dynamic, user-friendly digital experiences and continuously learning new technologies to improve my skills. I am currently focusing on full-stack development and expanding my expertise.
+
+### Current activities
+- 🌱 Exploring **Node.js, Express, and MongoDB** for backend development.
 - 🔭 Currently working as a Tech Innovation Intern at Startup Chattogram.  
-- 🌱 Exploring **Node.js, Express, and MongoDB** for backend development.  
-- 💬 Ask me about **JavaScript, React, Tailwind CSS, MongoDB**  
-- 📫 How to reach me: **ayshaismail021@gmail.com**  
-
-
+- 💼 I am preparing for a job as a web developer, improving my coding skills with hands-on projects and challenges.
 
 
 ### 🛠️ Tech Stack
