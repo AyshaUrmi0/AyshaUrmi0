@@ -26,7 +26,7 @@ Feel free to reach out if you have any questions or want to collaborate!
 I am a passionate web developer with a strong foundation in HTML, CSS, JavaScript, React, Node.js, and MongoDB. I enjoy creating dynamic, user-friendly digital experiences and continuously learning new technologies to improve my skills. I am currently focusing on full-stack development and expanding my expertise.
 
 ### Current activities
-- 🌱 Exploring **Node.js, Express, and MongoDB** for backend development.
+- 🌱 Exploring **Next.js, Typescript** .
 - 🔭 Currently working as a Tech Innovation Intern at Startup Chattogram.  
 - 💼 I am preparing for a job as a web developer, improving my coding skills with hands-on projects and challenges.
 
