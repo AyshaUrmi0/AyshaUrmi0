@@ -20,7 +20,7 @@
 
 - 🌏 **Current Location:** Chittagong, Bangladesh  
 - 💻 **Tech Enthusiast:** Passionate about creating dynamic, user-friendly web solutions.  
-- 🌱 **Currently Learning:** Next.js, TypeScript  
+- 🌱 **Currently Learning:** Next.js, Redux  
 - 🔭 **Current Role:** Tech Innovation Intern at Startup Chattogram  
 - 💼 **Career Goal:** Preparing for a full-time Web Developer role with hands-on projects and challenges.  
 - 📧 **Contact Me:** [ayshaismail021@gmail.com](mailto:ayshaismail021@gmail.com)  
