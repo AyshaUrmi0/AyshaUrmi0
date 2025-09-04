@@ -20,7 +20,7 @@
 
 - 🌏 **Current Location:** Chittagong, Bangladesh  
 - 💻 **Tech Enthusiast:** Passionate about creating dynamic, user-friendly web solutions.  
-- 🌱 **Currently Learning:** Next.js, Redux  
+- 🌱 **Currently Learning:** Advanced React patterns, System Design  
 - 🔭 **Current Role:** Tech Innovation Intern at Startup Chattogram  
 - 💼 **Career Goal:** Preparing for a full-time Web Developer role with hands-on projects and challenges.  
 - 📧 **Contact Me:** [ayshaismail021@gmail.com](mailto:ayshaismail021@gmail.com)  
@@ -32,10 +32,11 @@
 #### 🚀 Frontend  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 20px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 20px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" style="margin-right: 20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 20px;"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 20px;"/>
+  <img src="https://redux.js.org/img/redux.svg" alt="Redux" width="40" height="40" style="margin-right: 20px;"/>
 </p>
 
 #### 🖥️ Backend  
@@ -43,6 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
 #### 🐍 Problem Solving  
@@ -53,13 +55,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
 
+#### 🛠️ Tools & Libraries
+<p>
+  <img src="https://redux-toolkit.js.org/img/redux-logo-landscape.png" alt="RTK Query" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin-right: 10px;"/>
+</p>
+
 ---
 
 ### 🛠️ Current Activities  
 
-- 🌟 Exploring **Next.js** and **TypeScript**.
-- 🤝 Collaborating with **Startup Chattogram**.
-- 📚 Building hands-on projects to enhance coding skills.
+- 🌟 Mastering **Next.js 15** and **TypeScript** for production applications.
+- 🔄 Working with **Redux Toolkit** and **RTK Query** for state management.
+- 🗄️ Exploring **PostgreSQL** for relational database solutions.
+- 🤝 Collaborating with **Startup Chattogram** on innovative projects.
+- 📚 Building scalable full-stack applications with modern tech stack.
 - 🧗 Preparing for new challenges as a Web Developer.
 
 ---
