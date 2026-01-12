@@ -21,7 +21,7 @@
 - 🌏 **Current Location:** Chittagong, Bangladesh  
 - 💻 **Tech Enthusiast:** Passionate about creating dynamic, user-friendly web solutions.  
 - 🌱 **Currently Learning:** Advanced React patterns, System Design  
-- 🔭 **Current Role:** Tech Innovation Intern at Startup Chattogram  
+- 🔭 **Current Role:** Frontend Developer at Dorik AI Builder.  
 - 💼 **Career Goal:** Preparing for a full-time Web Developer role with hands-on projects and challenges.  
 - 📧 **Contact Me:** [ayshaismail021@gmail.com](mailto:ayshaismail021@gmail.com)  
 
