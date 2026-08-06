@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Aysha Akter Urmi - Full Stack & AI Developer Banner" width="100%">
+  <img src="./banner.png" alt="Aysha Akter Urmi - Full Stack & AI Developer Banner" width="100%" height="220" style="max-height: 220px; object-fit: cover; border-radius: 10px;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aysha</h1>
