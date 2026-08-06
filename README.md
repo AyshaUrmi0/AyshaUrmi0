@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/fdxs2mKj/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="GitHub Banner">
+  <img src="./banner.png" alt="Aysha Akter Urmi - Full Stack & AI Developer Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aysha</h1>
