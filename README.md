@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./banner.png" alt="Aysha Akter Urmi - Full Stack & AI Developer Banner" width="100%">
+  <img src="./banner.png" alt="Aysha Akter Urmi - Full-Stack Developer | AI-Assisted Workflows & SQA Specialist" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aysha</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer from Bangladesh</h3>
+<h3 align="center">Full-Stack Developer | AI-Assisted Workflows & SQA Specialist</h3>
 
 <p align="center">
   <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
@@ -34,7 +34,7 @@
 | **🚀 Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat) ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?logo=shadcnui&logoColor=white&style=flat) |
 | **🖥️ Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) |
 | **🐍 Problem Solving** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat) |
-| **🛠️ Tools & Libraries** | ![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?logo=redux&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat) |
+| **🛠️ Tools & Libraries** | ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=flat) ![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?logo=redux&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat) |
 
 ---
 
