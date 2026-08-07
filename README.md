@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Aysha Akter Urmi - Full-Stack Developer | AI-Assisted Workflows & SQA Specialist" width="100%">
+  <img src="./profile.png" alt="Aysha Akter Urmi - Full-Stack Developer | AI-Assisted Workflows & SQA Specialist" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aysha</h1>
